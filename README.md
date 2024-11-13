@@ -6,6 +6,10 @@
 # ERD
 ![image](https://github.com/user-attachments/assets/863735bf-333f-432d-9c36-c11db5011ed6)
 
-# Bukti Device 1 Eror
-![image](https://github.com/user-attachments/assets/5858d2e5-860a-4d40-8d1e-fa9bf92fde84)
+# TAMPILAN LOGIN
+![image](https://github.com/user-attachments/assets/8ebbf1de-a666-4afd-a2cf-6874271a4e55)
+
+# DAFTAR PRODUK
+![image](https://github.com/user-attachments/assets/b6e68b8d-1973-459c-a7e6-b0891e737549)
+
 
